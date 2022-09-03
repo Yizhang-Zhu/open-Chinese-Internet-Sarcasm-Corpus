@@ -1,5 +1,5 @@
-# open Chinese Internet Sarcasm Corpus
-open Chinese Internet Sarcasm Corpus: An Approach - the corpus dataset
+# Open Chinese Internet Sarcasm Corpus
+Open Chinese Internet Sarcasm Corpus: An Approach - the corpus dataset
 
 ### Introduction
 
