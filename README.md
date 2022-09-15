@@ -12,7 +12,7 @@ open-Chinese-Internet-Sarcasm-Corpus
 ├─ README.md  *this doc
 ├─ originDataset  *origin data file (processed)
 │ ├─ ChineseSarcasmCorpus.xlsx  *unshuffled dataset
-│ ├─ gongqingtuanComment.xlsx	 *selected from Chinese Youth League (WeChat comment section)
+│ ├─ gongqingtuanComment.xlsx  *selected from Chinese Youth League (WeChat comment section)
 │ ├─ ntuCorpus.xlsx  *NTU corpus[1]
 │ ├─ ntuCorpus_modified.xlsx  *processed NTU corpus
 │ ├─ onionCorpus.xlsx  *selected from Onion The Storyteller (Weibo account)
