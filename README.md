@@ -9,13 +9,13 @@ A balanced open Chinese Internet sarcasm corpus is constructed in a new approach
 
 ```
 open-Chinese-Internet-Sarcasm-Corpus
-├─ README.md					 *this doc
-├─ originDataset				 *origin data file (processed)
-│ ├─ ChineseSarcasmCorpus.xlsx	 *unshuffled dataset
+├─ README.md					         *this doc
+├─ originDataset				       *origin data file (processed)
+│ ├─ ChineseSarcasmCorpus.xlsx *unshuffled dataset
 │ ├─ gongqingtuanComment.xlsx	 *selected from Chinese Youth League (WeChat comment section)
-│ ├─ ntuCorpus.xlsx			 	 *NTU corpus[1]
+│ ├─ ntuCorpus.xlsx			 	     *NTU corpus[1]
 │ ├─ ntuCorpus_modified.xlsx	 *processed NTU corpus
-│ ├─ onionCorpus.xlsx			 *selected from Onion The Storyteller (Weibo account)
+│ ├─ onionCorpus.xlsx			     *selected from Onion The Storyteller (Weibo account)
 │ ├─ renminDailyComment.xlsx	 *selected from Renmin Daily (WeChat comment section)
 │ ├─ renminDailyCorpus.xlsx	 	 *selected from Renmin Daily News (official media)
 │ └─ xinhuaNewsCorpus.xlsx		 *selected from Xinhua News Agency (official media)
