@@ -25,4 +25,4 @@ open-Chinese-Internet-Sarcasm-Corpus
 [1] Tang, Yi-jie, and Hsin-Hsi Chen. "Chinese irony corpus construction and ironic structure analysis." Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: Technical Papers. 2014.
 
 ### Citation
-Zhu, Y.Z. "Open Chinese Internet Sarcasm Corpus: An Approach" Frontiers in Computing and Intelligent Systems.
+Zhu, Y. (2022). Open Chinese Internet Sarcasm Corpus Construction: An Approach. Frontiers in Computing and Intelligent Systems, 2(1), 7-9.
